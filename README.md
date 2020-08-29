@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning ...
+  - broadening my knowledge of Kubernetes and Golang.
+
+- 💬 Ask me about ...
+  - Terraform
+  - Infrastructure As Code
+  - AWS
+  - Python
+  - PowerShell
+  - Golang
+  
+- 📫 How to reach me: luke@griffith.cloud
+
 <!--
 **lukemgriffith/lukemgriffith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
