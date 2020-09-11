@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-  - broadening my knowledge of Kubernetes and Golang.
+  - Broadening my knowledge of Kubernetes and Golang.
 
 - 💬 Ask me about ...
   - Terraform
