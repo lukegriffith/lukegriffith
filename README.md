@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-  - Kubernetes and Golang.
+  - React
 
 - 💬 Ask me about ...
   - Terraform
   - Infrastructure As Code
   - AWS
   - Python
-  - PowerShell
   - Golang
+  - Kubernetes
   
 - 📫 How to reach me: luke@griffith.cloud
 
