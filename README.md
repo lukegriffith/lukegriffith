@@ -16,7 +16,7 @@
   - Kubernetes
   
 - 📫 How to reach me: lukemgriffith@gmail.com
-- [https://www.linkedin.com/in/lukemgriffith/](Linkedin)
+- [Linkedin](https://www.linkedin.com/in/lukemgriffith/)
 
 <!--
 **lukemgriffith/lukemgriffith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
