@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ...
-  - React
+  - Jumping around various things, currently.
+    - Blender
+    - React
+    - Golang
+    - Large Language Models
 
 - 💬 Ask me about ...
   - Terraform
@@ -11,7 +15,8 @@
   - Golang
   - Kubernetes
   
-- 📫 How to reach me: luke@griffith.cloud
+- 📫 How to reach me: lukemgriffith@gmail.com
+- [https://www.linkedin.com/in/lukemgriffith/](Linkedin)
 
 <!--
 **lukemgriffith/lukemgriffith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
