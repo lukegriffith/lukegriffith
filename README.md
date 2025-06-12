@@ -1,17 +1,10 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
-  - Jumping around various things, currently.
-    - Blender
-    - React
-    - Golang
-    - Large Language Models
-
 - 💬 Ask me about ...
   - Terraform
   - Infrastructure As Code
+  - Bare Metal
   - AWS
-  - Python
   - Golang
   - Kubernetes
   
